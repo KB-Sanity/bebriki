@@ -3,14 +3,14 @@
 ## Data Scheme
 
 Data:
-```json
+```typescript
 {
     "keyboards": KeyboardItem[],
 }
 ```
 
 KeyboardItem:
-```json
+```typescript
 {
     "switch_count": number | [number, number], // count or [minCount, maxCount]
     "tags": string[],
