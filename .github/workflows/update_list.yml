@@ -1,0 +1,26 @@
+name: Update data.json on site
+
+on:
+  repository_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch latest changes
+        uses: actions/checkout@v2
+      - name: Pushes test file
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'data.json'
+          destination_repo: 'KB-Sanity/bebriki-site'
+          destination_folder: 'server'
+          user_email: 'i7d3v3l0p3r@yandex.ru'
+          user_name: 'i7d3v3l0p3r'
+          commit_message: '[Bebriki Data] Updated by ${{github.sha}}'
