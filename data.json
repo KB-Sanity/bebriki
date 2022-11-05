@@ -204,6 +204,22 @@
           "link": "https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/i75_ProMicro/pcb"
         }
       ],
+      "meta": {
+        "switch_count": 75,
+        "tags": [
+          "regular",
+          "mx",
+          "through-hole",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "teensy"
+        ]
+      },
       "name": "i75"
     },
     {
