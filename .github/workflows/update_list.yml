@@ -23,4 +23,4 @@ jobs:
           destination_folder: 'server'
           user_email: 'i7d3v3l0p3r@yandex.ru'
           user_name: 'i7d3v3l0p3r'
-          commit_message: '[Bebriki Data] Updated by ${{github.sha}}'
+          destination_branch: 'master'
