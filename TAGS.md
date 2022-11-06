@@ -8,6 +8,7 @@
 - mx
 - alps
 - choc
+- push
 
 ### Components mount
 - smd
@@ -40,6 +41,7 @@
 - kbmount
 - stm32
 - teensy
+- itsybitsy
 
 ### Features
 - rgb

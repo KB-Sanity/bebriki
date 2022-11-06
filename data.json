@@ -380,6 +380,20 @@
           "link": "https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/nano/pcb"
         }
       ],
+      "meta": {
+        "switch_count": 8,
+        "tags": [
+          "macropad",
+          "push",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "nano"
     },
     {
@@ -390,6 +404,22 @@
           "link": "https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/mf68/pcb"
         }
       ],
+      "meta": {
+        "switch_count": 69,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through-hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "mf68"
     },
     {
@@ -400,6 +430,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/luddite"
         }
       ],
+      "meta": {
+        "switch_count": 61,
+        "tags": [
+          "regular",
+          "mx",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Luddite"
     },
     {
@@ -410,6 +455,22 @@
           "link": "https://github.com/di0ib/Misc/tree/master/tomato"
         }
       ],
+      "meta": {
+        "switch_count": 30,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Tomato"
     },
     {
@@ -420,6 +481,22 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/Six%20Pack"
         }
       ],
+      "meta": {
+        "switch_count": 6,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Six Pack"
     },
     {
@@ -430,6 +507,22 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/polyandry"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "teensy",
+          "itsybitsy"
+        ]
+      },
       "name": "Polyandry"
     },
     {
@@ -440,6 +533,20 @@
           "link": "https://github.com/4pplet/AEKISO60"
         }
       ],
+      "meta": {
+        "switch_count": [61, 64],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "AEKISO60"
     },
     {
@@ -450,6 +557,21 @@
           "link": "https://github.com/eliassjogreen/4by3"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "4by3"
     },
     {
@@ -460,6 +582,20 @@
           "link": "https://github.com/stevennguyen/framework"
         }
       ],
+      "meta": {
+        "switch_count": [57, 59],
+        "tags": [
+          "regular",
+          "mx",
+          "through-hole",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "encoder"
+        ]
+      },
       "name": "7c8 Framework"
     },
     {
