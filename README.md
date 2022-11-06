@@ -2,7 +2,7 @@
 
 ## How to add/edit your keyboard
 
-Create new [issue](https://github.com/KB-Sanity/bebriki/issues/new/choose) with "Keyboard data" template and fill all data in form
+Create new [issue](https://github.com/KB-Sanity/bebriki/issues/new?template=keyboard-data.md) and fill all data in form
 
 ## Data Scheme
 
