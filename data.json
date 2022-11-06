@@ -606,6 +606,21 @@
           "link": "https://github.com/4pplet/waffling60"
         }
       ],
+      "meta": {
+        "switch_count": [59, 66],
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "waffling60"
     },
     {
@@ -616,6 +631,21 @@
           "link": "https://github.com/4pplet/Steezy60"
         }
       ],
+      "meta": {
+        "switch_count": [57, 66],
+        "tags": [
+          "regular",
+          "smk",
+          "alps",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "Steezy60"
     },
     {
@@ -626,6 +656,22 @@
           "link": "https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "split",
+          "choc",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "tenting"
+        ]
+      },
       "name": "Architeuthis dux"
     },
     {
@@ -636,6 +682,22 @@
           "link": "https://github.com/cgarcia2097/8-Pack"
         }
       ],
+      "meta": {
+        "switch_count": 8,
+        "tags": [
+          "macropad",
+          "mx",
+          "alps",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "8-Pack"
     },
     {
@@ -646,6 +708,24 @@
           "link": "https://github.com/nickolaij/Abacus_Rev2"
         }
       ],
+      "meta": {
+        "switch_count": 45,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "Abacus"
     },
     {
@@ -656,6 +736,19 @@
           "link": "https://github.com/AcheronProject/ArcticPCB"
         }
       ],
+      "meta": {
+        "switch_count": [60, 62],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32"
+        ]
+      },
       "name": "Arctic"
     },
     {
@@ -666,6 +759,20 @@
           "link": "https://github.com/AcheronProject/Elongate"
         }
       ],
+      "meta": {
+        "switch_count": 54,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32",
+          "rgb"
+        ]
+      },
       "name": "Elongate"
     },
     {
@@ -676,6 +783,19 @@
           "link": "https://github.com/AcheronProject/KeebsPCB"
         }
       ],
+      "meta": {
+        "switch_count": 60,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "onboard",
+          "stm32"
+        ]
+      },
       "name": "KeebsPCB"
     },
     {
@@ -686,6 +806,22 @@
           "link": "https://github.com/AcheronProject/SharkPCB"
         }
       ],
+      "meta": {
+        "switch_count": [45, 48],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "SharkPCB"
     },
     {
@@ -696,6 +832,23 @@
           "link": "https://github.com/ADPenrose/kintsugi_keeb"
         }
       ],
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder",
+          "oled"
+        ]
+      },
       "name": "kintsugi"
     },
     {
@@ -706,6 +859,22 @@
           "link": "https://github.com/bit-trade-one/ADKB96-hardware"
         }
       ],
+      "meta": {
+        "switch_count": 96,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "choc",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "ADKB96"
     },
     {
@@ -716,6 +885,21 @@
           "link": "https://github.com/floookay/adelheid"
         }
       ],
+      "meta": {
+        "switch_count": 82,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "Adelheid"
     },
     {

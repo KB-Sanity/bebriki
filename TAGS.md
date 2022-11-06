@@ -7,6 +7,7 @@
 ### Switch type
 - mx
 - alps
+- smk
 - choc
 - push
 
