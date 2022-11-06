@@ -230,6 +230,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/halfhalf"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "split",
+          "mx",
+          "through-hole",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "half_n_half"
     },
     {
@@ -240,7 +255,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/pbgherkin"
         }
       ],
-      "name": "Gherkin"
+      "meta": {
+        "switch_count": 30,
+        "tags": [
+          "regular",
+          "mx",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
+      "name": "PB Gherkin"
     },
     {
       "preview": "https://camo.githubusercontent.com/192f5aa9a3d045e8ed056e050b5c82061d1f4d097d422c6293188e6d2eff429a/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d727238544b367867324e302f576277564c324f374566492f41414141414141434463382f323039774e36396a753077414649435959504e4c49454751686174352d354d6277434c63424741732f733634302f612e4a5047",
@@ -250,6 +279,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/foobar"
         }
       ],
+      "meta": {
+        "switch_count": 30,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "foobar"
     },
     {
@@ -260,6 +304,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/6lit"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "6lit"
     },
     {
@@ -270,6 +329,22 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/nori"
         }
       ],
+      "meta": {
+        "switch_count": 16,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "nori"
     },
     {
@@ -280,6 +355,21 @@
           "link": "https://git.40percent.club/di0ib/Misc/src/branch/master/nein"
         }
       ],
+      "meta": {
+        "switch_count": 9,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through-hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "nein"
     },
     {
