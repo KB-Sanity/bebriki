@@ -1,7 +1,7 @@
 ---
 name: Keyboard data
 about: Describe keyboard data
-title: ''
+title: 'Add keyboard: Keeb'
 labels: ''
 assignees: ''
 
