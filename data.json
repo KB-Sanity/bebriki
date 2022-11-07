@@ -910,6 +910,19 @@
           "link": "https://github.com/ai03-2725/JP60"
         }
       ],
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "JP60"
     },
     {
@@ -920,7 +933,22 @@
           "link": "https://github.com/ai03-2725/Orbit/tree/master/OrbitX-PCB"
         }
       ],
-      "name": "name"
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
+      "name": "OrbitX"
     },
     {
       "preview": "https://github.com/ai03-2725/Voyager60/raw/master/Renders/Front.png",
@@ -930,6 +958,22 @@
           "link": "https://github.com/ai03-2725/Voyager60/"
         }
       ],
+      "meta": {
+        "switch_count": [58, 65],
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "name"
     },
     {
@@ -940,6 +984,21 @@
           "link": "https://github.com/ai03-2725/soyuz"
         }
       ],
+      "meta": {
+        "switch_count": [17, 20],
+        "tags": [
+          "macropad",
+          "mx",
+          "alps",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Soyuz"
     },
     {
@@ -950,6 +1009,22 @@
           "link": "https://github.com/AnaviTechnology/anavi-macro-pad-8"
         }
       ],
+      "meta": {
+        "switch_count": 8,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "ANAVI Macro Pad 8"
     },
     {
@@ -960,6 +1035,23 @@
           "link": "https://github.com/calciumnitride/arabica37"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled"
+        ]
+      },
       "name": "Arabica37"
     },
     {
@@ -970,6 +1062,23 @@
           "link": "https://github.com/Aplyard/aplx6"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "encoder"
+        ]
+      },
       "name": "Aplx6"
     },
     {
@@ -980,6 +1089,19 @@
           "link": "https://github.com/FateNozomi/arisu-pcb"
         }
       ],
+      "meta": {
+        "switch_count": 67,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Arisu"
     },
     {
@@ -990,6 +1112,20 @@
           "link": "https://github.com/profet23/atreus62"
         }
       ],
+      "meta": {
+        "switch_count": 62,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "atreus62"
     },
     {
@@ -1000,6 +1136,20 @@
           "link": "https://github.com/DanNixon/aya"
         }
       ],
+      "meta": {
+        "switch_count": 68,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Aya"
     },
     {
@@ -1010,6 +1160,19 @@
           "link": "https://github.com/knaruo/barracuda"
         }
       ],
+      "meta": {
+        "switch_count": 30,
+        "tags": [
+          "monoblock_split",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "barracuda"
     },
     {
