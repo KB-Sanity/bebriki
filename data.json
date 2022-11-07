@@ -1183,6 +1183,22 @@
           "link": "https://github.com/Bastardkb/TBK-Mini"
         }
       ],
+      "meta": {
+        "switch_count": 42,
+        "tags": [
+          "split",
+          "mx",
+          "handwire",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "TBK Mini"
     },
     {
@@ -1193,6 +1209,23 @@
           "link": "https://github.com/bastardkb/skeletyl"
         }
       ],
+      "meta": {
+        "switch_count": 36,
+        "tags": [
+          "split",
+          "mx",
+          "handwire",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "tenting"
+        ]
+      },
       "name": "Skeletyl"
     },
     {
@@ -1203,6 +1236,22 @@
           "link": "https://github.com/Bastardkb/Scylla"
         }
       ],
+      "meta": {
+        "switch_count": 58,
+        "tags": [
+          "split",
+          "mx",
+          "handwire",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Scylla"
     },
     {
@@ -1213,6 +1262,23 @@
           "link": "https://github.com/Bastardkb/charybdis"
         }
       ],
+      "meta": {
+        "switch_count": 56,
+        "tags": [
+          "split",
+          "mx",
+          "handwire",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "trackball"
+        ]
+      },
       "name": "Charybdis"
     },
     {
@@ -1223,6 +1289,24 @@
           "link": "https://github.com/Bastardkb/charybdis"
         }
       ],
+      "meta": {
+        "switch_count": 35,
+        "tags": [
+          "split",
+          "mx",
+          "handwire",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "trackball",
+          "tenting"
+        ]
+      },
       "name": "Charybdis Nano"
     },
     {
@@ -1233,6 +1317,19 @@
           "link": "https://github.com/null-ll/basketweave"
         }
       ],
+      "meta": {
+        "switch_count": 68,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Basketweave"
     },
     {
@@ -1243,6 +1340,20 @@
           "link": "https://github.com/bemeier/bmek"
         }
       ],
+      "meta": {
+        "switch_count": 66,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "hotswap",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "BMEK"
     },
     {
@@ -1253,6 +1364,21 @@
           "link": "https://github.com/Biacco42/meishi2"
         }
       ],
+      "meta": {
+        "switch_count": 4,
+        "tags": [
+          "macropad",
+          "mx",
+          "choc",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "meishi2"
     },
     {
@@ -1263,6 +1389,21 @@
           "link": "https://github.com/Biacco42/Ergo42"
         }
       ],
+      "meta": {
+        "switch_count": 56,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Ergo42"
     },
     {
@@ -1273,6 +1414,22 @@
           "link": "https://github.com/bluepylons/Boston"
         }
       ],
+      "meta": {
+        "switch_count": [119, 130],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "Boston"
     },
     {
@@ -1283,6 +1440,20 @@
           "link": "https://git.bthlabs.pl/tomekwojcik/geekpad"
         }
       ],
+      "meta": {
+        "switch_count": 9,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "GeekPad"
     },
     {
