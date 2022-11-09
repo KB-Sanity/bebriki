@@ -2014,6 +2014,19 @@
           "link": "https://github.com/ericrlau/NumDiscipline"
         }
       ],
+      "meta": {
+        "switch_count": [79, 81],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "#DISCIPLINE"
     },
     {
@@ -2024,6 +2037,23 @@
           "link": "https://github.com/jpconstantineau/ErgoTravel"
         }
       ],
+      "meta": {
+        "switch_count": [54, 56],
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "ErgoTravel"
     },
     {
@@ -2034,6 +2064,23 @@
           "link": "https://github.com/tomsaleeba/ergoslab"
         }
       ],
+      "meta": {
+        "switch_count": 52,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "ergoslab"
     },
     {
