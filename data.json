@@ -1464,6 +1464,23 @@
           "link": "https://github.com/crehmann/Buzzard"
         }
       ],
+      "meta": {
+        "switch_count": 40,
+        "tags": [
+          "split",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "haptic"
+        ]
+      },
       "name": "Buzzard"
     },
     {
@@ -1474,6 +1491,21 @@
           "link": "https://github.com/coarse/Cordillera"
         }
       ],
+      "meta": {
+        "switch_count": [64, 66],
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32",
+          "rgb"
+        ]
+      },
       "name": "Cordillera"
     },
     {
@@ -1484,6 +1516,19 @@
           "link": "https://github.com/coseyfannitutti/romeo"
         }
       ],
+      "meta": {
+        "switch_count": [42, 45],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "ROMEO"
     },
     {
@@ -1494,6 +1539,19 @@
           "link": "https://github.com/coseyfannitutti/mysterium"
         }
       ],
+      "meta": {
+        "switch_count": [86, 87],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "MYSTERIUM"
     },
     {
@@ -1504,6 +1562,19 @@
           "link": "https://github.com/coseyfannitutti/discipline"
         }
       ],
+      "meta": {
+        "switch_count": [67, 69],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "DISCIPLINE"
     },
     {
@@ -1514,6 +1585,19 @@
           "link": "https://github.com/coseyfannitutti/discipad"
         }
       ],
+      "meta": {
+        "switch_count": 17,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "DISCIPAD"
     },
     {
@@ -1524,6 +1608,21 @@
           "link": "https://github.com/telzo2000/cool836A"
         }
       ],
+      "meta": {
+        "switch_count": 36,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "equal",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "cool836A"
     },
     {
@@ -1534,6 +1633,21 @@
           "link": "https://github.com/cozykeys/speedo"
         }
       ],
+      "meta": {
+        "switch_count": 66,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Speedo"
     },
     {
@@ -1544,6 +1658,21 @@
           "link": "https://github.com/cozykeys/bloomer"
         }
       ],
+      "meta": {
+        "switch_count": 87,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "soldered",
+          "daughterboard",
+          "itsybitsy",
+          "rgb"
+        ]
+      },
       "name": "Bloomer"
     },
     {
@@ -1554,6 +1683,25 @@
           "link": "https://github.com/foostan/crkbd"
         }
       ],
+      "meta": {
+        "switch_count": [36, 42],
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "oled",
+          "tenting"
+        ]
+      },
       "name": "Corne"
     },
     {
@@ -1564,6 +1712,20 @@
           "link": "https://github.com/CyberGear/mk-macro-01"
         }
       ],
+      "meta": {
+        "switch_count": 10,
+        "tags": [
+          "macropad",
+          "mx",
+          "handwired",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Macro25"
     },
     {
@@ -1574,6 +1736,20 @@
           "link": "https://framagit.org/mechkeyboards/DK60"
         }
       ],
+      "meta": {
+        "switch_count": 60,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "DK60"
     },
     {
@@ -1584,6 +1760,19 @@
           "link": "https://github.com/dinofizz/fnrow-pcb"
         }
       ],
+      "meta": {
+        "switch_count": 13,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "stm32"
+        ]
+      },
       "name": "FnRow"
     },
     {
