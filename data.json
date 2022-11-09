@@ -1783,6 +1783,19 @@
           "link": "https://github.com/hsgw/tartan"
         }
       ],
+      "meta": {
+        "switch_count": [61, 64],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Tartan"
     },
     {
@@ -1793,6 +1806,19 @@
           "link": "https://github.com/hsgw/plaid"
         }
       ],
+      "meta": {
+        "switch_count": [47, 48],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "plaid"
     },
     {
@@ -1803,6 +1829,21 @@
           "link": "https://github.com/hsgw/ergoinu"
         }
       ],
+      "meta": {
+        "switch_count": 62,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Ergoinu"
     },
     {
@@ -1813,6 +1854,25 @@
           "link": "https://github.com/MangoIV/dracuLad"
         }
       ],
+      "meta": {
+        "switch_count": [34, 36],
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder",
+          "trackball"
+        ]
+      },
       "name": "DracuLad"
     },
     {
@@ -1823,6 +1883,22 @@
           "link": "https://github.com/drhigsby/packrat"
         }
       ],
+      "meta": {
+        "switch_count": 39,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "Packrat"
     },
     {
@@ -1833,6 +1909,21 @@
           "link": "https://github.com/drhigsby/bkf"
         }
       ],
+      "meta": {
+        "switch_count": [43, 45],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "BKF"
     },
     {
@@ -1843,6 +1934,25 @@
           "link": "https://github.com/imchipwood/dumbpad"
         }
       ],
+      "meta": {
+        "switch_count": 16,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "teensy",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "dumbpad"
     },
     {
@@ -1853,6 +1963,21 @@
           "link": "https://github.com/EMajesty/eiri"
         }
       ],
+      "meta": {
+        "switch_count": 46,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "alps",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "eiri"
     },
     {
@@ -1863,6 +1988,22 @@
           "link": "https://github.com/duckyb/eternal-keypad"
         }
       ],
+      "meta": {
+        "switch_count": 36,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "ETERNAL"
     },
     {
