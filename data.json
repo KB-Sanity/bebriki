@@ -2091,6 +2091,25 @@
           "link": "https://github.com/davidphilipbarr/Sweep"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "tenting"
+        ]
+      },
       "name": "Sweep"
     },
     {
@@ -2101,6 +2120,21 @@
           "link": "https://github.com/peej/for-science-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": 46,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "For Science"
     },
     {
@@ -2111,6 +2145,20 @@
           "link": "https://github.com/Frooastside/Frooastboard/tree/main/Frooastboard%20Nano"
         }
       ],
+      "meta": {
+        "switch_count": 2,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "Frooastboard Nano"
     },
     {
@@ -2121,6 +2169,19 @@
           "link": "https://github.com/MarvFPV/Friedrich"
         }
       ],
+      "meta": {
+        "switch_count": 52,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Friedrich"
     },
     {
@@ -2131,6 +2192,20 @@
           "link": "https://github.com/mkdl/unix60"
         }
       ],
+      "meta": {
+        "switch_count": [59, 60],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Unix60"
     },
     {
@@ -2141,6 +2216,22 @@
           "link": "https://github.com/kelvinhall05/southpaw75"
         }
       ],
+      "meta": {
+        "switch_count": 78,
+        "tags": [
+          "regular",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Southpaw75"
     },
     {
@@ -2151,6 +2242,25 @@
           "link": "https://github.com/Salicylic-acid3/GL516_Example/tree/main/Keyboard/N51GL"
         }
       ],
+      "meta": {
+        "switch_count": 51,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "n51gl"
     },
     {
@@ -2161,6 +2271,24 @@
           "link": "https://github.com/Salicylic-acid3/GL516_Example/tree/main/Keyboard/J73GL"
         }
       ],
+      "meta": {
+        "switch_count": 73,
+        "tags": [
+          "regular",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "j73gl"
     },
     {
@@ -2171,6 +2299,24 @@
           "link": "https://github.com/Salicylic-acid3/GL516_Example/tree/main/Keyboard/A52GL"
         }
       ],
+      "meta": {
+        "switch_count": 52,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "a52gl"
     },
     {
@@ -2181,6 +2327,22 @@
           "link": "https://github.com/SamGowland/Gowla-Macro-Boards"
         }
       ],
+      "meta": {
+        "switch_count": [8, 9],
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "Gowla"
     },
     {
@@ -2191,6 +2353,20 @@
           "link": "https://github.com/Aplyard/Aplx2"
         }
       ],
+      "meta": {
+        "switch_count": 2,
+        "tags": [
+          "macropad",
+          "mx",
+          "handwire",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Aplx2"
     },
     {
@@ -2201,6 +2377,20 @@
           "link": "https://github.com/joaofbmaia/6macro"
         }
       ],
+      "meta": {
+        "switch_count": 6,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "6macro"
     },
     {
