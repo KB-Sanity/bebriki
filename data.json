@@ -2401,6 +2401,22 @@
           "link": "https://github.com/nglgzz/42/"
         }
       ],
+      "meta": {
+        "switch_count": 42,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "alps",
+          "choc",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "42"
     },
     {
@@ -2411,6 +2427,21 @@
           "link": "https://github.com/N2-Sumikko/HalfCliff"
         }
       ],
+      "meta": {
+        "switch_count": 75,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "halfcliff"
     },
     {
@@ -2421,6 +2452,19 @@
           "link": "https://github.com/ManoShu/BareDev"
         }
       ],
+      "meta": {
+        "switch_count": 77,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "atmega"
+        ]
+      },
       "name": "BareDev"
     },
     {
@@ -2431,6 +2475,19 @@
           "link": "https://github.com/thatfellarobin/axon"
         }
       ],
+      "meta": {
+        "switch_count": [37, 40],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Axon"
     },
     {
@@ -2441,6 +2498,20 @@
           "link": "https://github.com/eric-wood/macro-pad"
         }
       ],
+      "meta": {
+        "switch_count": 8,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "encoder"
+        ]
+      },
       "name": "frankie_macropad"
     },
     {
@@ -2451,6 +2522,21 @@
           "link": "https://github.com/rozPierog/NozbePad"
         }
       ],
+      "meta": {
+        "switch_count": [3, 4],
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "PedroPad"
     },
     {
@@ -2461,6 +2547,23 @@
           "link": "https://github.com/erkhal/prkl30"
         }
       ],
+      "meta": {
+        "switch_count": 37,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "PRKL30"
     },
     {
@@ -2471,6 +2574,22 @@
           "link": "https://github.com/IktaS/Pill60"
         }
       ],
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "daughterboard",
+          "stm32",
+          "encoder",
+          "oled",
+          "encoder"
+        ]
+      },
       "name": "Pill60"
     },
     {
