@@ -2600,6 +2600,22 @@
           "link": "https://github.com/PercyJW-2/Split65"
         }
       ],
+      "meta": {
+        "switch_count": 70,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "proton_c",
+          "oled"
+        ]
+      },
       "name": "Split65"
     },
     {
@@ -2610,6 +2626,20 @@
           "link": "https://github.com/swiftrax/Nodu"
         }
       ],
+      "meta": {
+        "switch_count": [60, 63],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "flex"
+        ]
+      },
       "name": "Nodu"
     },
     {
@@ -2620,6 +2650,20 @@
           "link": "https://github.com/swiftrax/Koalafications"
         }
       ],
+      "meta": {
+        "switch_count": 80,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "oled"
+        ]
+      },
       "name": "Koalafications"
     },
     {
@@ -2630,6 +2674,19 @@
           "link": "https://github.com/swiftrax/unsplit"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "UnSplit"
     },
     {
@@ -2640,6 +2697,25 @@
           "link": "https://github.com/MakotoKurauchi/helix"
         }
       ],
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "oled"
+        ]
+      },
       "name": "Helix"
     },
     {
@@ -2650,6 +2726,20 @@
           "link": "https://github.com/skarrmann/horizon"
         }
       ],
+      "meta": {
+        "switch_count": 48,
+        "tags": [
+          "regular",
+          "mx",
+          "choc",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Horizon"
     },
     {
@@ -2660,6 +2750,21 @@
           "link": "https://github.com/ibnuda/squiggle"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Squiggle"
     },
     {
@@ -2670,6 +2775,20 @@
           "link": "https://github.com/ibnuda/gurindam"
         }
       ],
+      "meta": {
+        "switch_count": 67,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Gurindam"
     },
     {
@@ -2680,6 +2799,20 @@
           "link": "https://github.com/ibnuda/alicia-cook"
         }
       ],
+      "meta": {
+        "switch_count": 48,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "alicia cook"
     },
     {
@@ -2690,6 +2823,20 @@
           "link": "https://github.com/ianklug/grooveboard"
         }
       ],
+      "meta": {
+        "switch_count": 4,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "rp2040"
+        ]
+      },
       "name": "Grooveboard"
     },
     {
@@ -2700,6 +2847,21 @@
           "link": "https://github.com/joshajohnson/Hub20"
         }
       ],
+      "meta": {
+        "switch_count": [17, 20],
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "Hub20"
     },
     {
@@ -2710,6 +2872,21 @@
           "link": "https://github.com/joshajohnson/Hub16"
         }
       ],
+      "meta": {
+        "switch_count": 16,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "Hub16"
     },
     {
@@ -2720,6 +2897,21 @@
           "link": "https://github.com/Ladniy/jiran"
         }
       ],
+      "meta": {
+        "switch_count": 56,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Jiran"
     },
     {
@@ -2730,6 +2922,22 @@
           "link": "https://github.com/wongjingping/k34"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "alps",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "k34"
     },
     {
@@ -2740,6 +2948,27 @@
           "link": "https://github.com/joric/jorne"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb",
+          "tenting"
+        ]
+      },
       "name": "Jorne"
     },
     {
@@ -2750,6 +2979,21 @@
           "link": "https://github.com/jpskenn/Jones"
         }
       ],
+      "meta": {
+        "switch_count": [65, 73],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "ortho",
+          "normal",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "encoder"
+        ]
+      },
       "name": "Jones"
     },
     {
@@ -2760,6 +3004,20 @@
           "link": "https://github.com/b-karl/KBIC65"
         }
       ],
+      "meta": {
+        "switch_count": [67, 70],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "KBIC65"
     },
     {
@@ -2770,6 +3028,24 @@
           "link": "https://github.com/keyzog/kapl"
         }
       ],
+      "meta": {
+        "switch_count": 70,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Kapl"
     },
     {
@@ -2780,6 +3056,19 @@
           "link": "https://github.com/kb-elmo/Vertex"
         }
       ],
+      "meta": {
+        "switch_count": [44, 48],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Vertex"
     },
     {
@@ -2790,6 +3079,19 @@
           "link": "https://github.com/kb-elmo/twelvekey"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Twelvekey"
     },
     {
@@ -2800,6 +3102,19 @@
           "link": "https://github.com/kb-elmo/sesame"
         }
       ],
+      "meta": {
+        "switch_count": 65,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Sesame"
     },
     {

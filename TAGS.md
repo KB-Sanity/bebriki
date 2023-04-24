@@ -43,6 +43,8 @@
 - stm32
 - teensy
 - itsybitsy
+- proton_c
+- rp2040
 
 ### Features
 - rgb
@@ -53,3 +55,4 @@
 - joystick
 - tenting
 - oled
+- flex
