@@ -28,6 +28,8 @@ assignees: ''
 - [ ] MX
 - [ ] Alps
 - [ ] Choc
+- [ ] SMK
+- [ ] Push
 
 **Component mount**
 - [ ] SMD
@@ -60,6 +62,9 @@ assignees: ''
 - [ ] kbmount
 - [ ] STM32
 - [ ] Teensy
+- [ ] ItsyBitsy
+- [ ] Proton C
+- [ ] RP2040
 
 **Features**
 - [ ] RGB
@@ -70,5 +75,6 @@ assignees: ''
 - [ ] TrackPoint
 - [ ] Joystick
 - [ ] Tenting
+- [ ] Flex
 
 ### Other keyboard info
