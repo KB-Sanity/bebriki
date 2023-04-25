@@ -3125,6 +3125,19 @@
           "link": "https://github.com/kb-elmo/QEZ"
         }
       ],
+      "meta": {
+        "switch_count": [34, 37],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "QEZ"
     },
     {
@@ -3135,6 +3148,19 @@
           "link": "https://github.com/kb-elmo/noah_avr"
         }
       ],
+      "meta": {
+        "switch_count": [66, 69],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Noah AVR"
     },
     {
@@ -3145,16 +3171,42 @@
           "link": "https://github.com/kb-elmo/m0116_usb"
         }
       ],
-      "name": "m0116_usb"
+      "meta": {
+        "switch_count": 80,
+        "tags": [
+          "regular",
+          "alps",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
+      "name": "M0116 usb"
     },
     {
       "preview": "https://camo.githubusercontent.com/246b4a6644437601c59f5d1783a37c69eea8d8cf1946088f8e4157d763f04a63/68747470733a2f2f692e696d6775722e636f6d2f68386e4e384f6e6c2e6a7067",
       "links": [
         {
           "name": "Repo",
-          "link": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/kb_elmo/m0110a_usb"
+          "link": "https://github.com/kb-elmo/m0110a_usb"
         }
       ],
+      "meta": {
+        "switch_count": 78,
+        "tags": [
+          "regular",
+          "alps",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "M0110a USB"
     },
     {
@@ -3165,6 +3217,20 @@
           "link": "https://github.com/kb-elmo/ISOlation"
         }
       ],
+      "meta": {
+        "switch_count": 1,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "ISOlation"
     },
     {
@@ -3175,6 +3241,19 @@
           "link": "https://github.com/kb-elmo/numpad"
         }
       ],
+      "meta": {
+        "switch_count": 21,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "ElmoPad"
     },
     {
@@ -3185,6 +3264,19 @@
           "link": "https://github.com/kkatano/bakeneko-65"
         }
       ],
+      "meta": {
+        "switch_count": [66, 68],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Bakeneko 65"
     },
     {
@@ -3195,6 +3287,19 @@
           "link": "https://github.com/kkatano/bakeneko-60"
         }
       ],
+      "meta": {
+        "switch_count": [60, 63],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Bakeneko 60"
     },
     {
@@ -3205,6 +3310,26 @@
           "link": "https://github.com/HellSingCoder/LimeKeyboard"
         }
       ],
+      "meta": {
+        "switch_count": 60,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder",
+          "joystick",
+          "oled"
+        ]
+      },
       "name": "Lime"
     },
     {
