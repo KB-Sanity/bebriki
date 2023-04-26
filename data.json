@@ -3340,6 +3340,24 @@
           "link": "https://github.com/kata0510/Lily58"
         }
       ],
+      "meta": {
+        "switch_count": 58,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled"
+        ]
+      },
       "name": "Lily58"
     },
     {
@@ -3350,6 +3368,20 @@
           "link": "https://github.com/jonbobcar/tenkey_plusplus"
         }
       ],
+      "meta": {
+        "switch_count": 17,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "encoder"
+        ]
+      },
       "name": "Tenkey++"
     },
     {
@@ -3360,6 +3392,21 @@
           "link": "https://github.com/lyso1/LCK75r2"
         }
       ],
+      "meta": {
+        "switch_count": [82, 84],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "encoder",
+          "oled"
+        ]
+      },
       "name": "LCK75r2"
     },
     {
@@ -3370,6 +3417,21 @@
           "link": "https://github.com/KamoNanban/Manta60"
         }
       ],
+      "meta": {
+        "switch_count": [64, 68],
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "manta60"
     },
     {
@@ -3380,6 +3442,23 @@
           "link": "https://github.com/marksard/Keyboards/tree/master/rhymestone"
         }
       ],
+      "meta": {
+        "switch_count": 40,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "Rhymestone"
     },
     {
@@ -3390,6 +3469,19 @@
           "link": "https://github.com/matthewdias/minim"
         }
       ],
+      "meta": {
+        "switch_count": [44, 46],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "equal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "minim"
     },
     {
@@ -3400,6 +3492,20 @@
           "link": "https://github.com/matthewdias/m3n3van"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "m3n3van"
     },
     {
@@ -3410,6 +3516,21 @@
           "link": "https://github.com/Maxr1998/Pulse_4k"
         }
       ],
+      "meta": {
+        "switch_count": 4,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "Pulse 4k"
     },
     {
@@ -3420,6 +3541,22 @@
           "link": "https://github.com/kaylynb/MechLlama-G35"
         }
       ],
+      "meta": {
+        "switch_count": 35,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "MechLlama G35"
     },
     {
