@@ -3567,6 +3567,20 @@
           "link": "https://github.com/mrninhvn/meow65-pcb"
         }
       ],
+      "meta": {
+        "switch_count": 67,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "flex"
+        ]
+      },
       "name": "Meow65"
     },
     {
@@ -3577,6 +3591,20 @@
           "link": "https://github.com/Kyrremann/index-tab"
         }
       ],
+      "meta": {
+        "switch_count": [72, 76],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "Index Tab"
     },
     {
@@ -3587,6 +3615,21 @@
           "link": "https://github.com/LeafCutterLabs/miniMACRO5"
         }
       ],
+      "meta": {
+        "switch_count": [0, 5],
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "daughterboard",
+          "pro_micro",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "miniMACRO5"
     },
     {
@@ -3597,6 +3640,22 @@
           "link": "https://github.com/minibois/ten-key-plus"
         }
       ],
+      "meta": {
+        "switch_count": [22, 25],
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "mini-ten-key-plus"
     },
     {
@@ -3607,6 +3666,20 @@
           "link": "https://github.com/GLozares/millipad"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "encoder"
+        ]
+      },
       "name": "MilliPad"
     },
     {
@@ -3617,6 +3690,20 @@
           "link": "https://gitlab.com/m-lego/m60_split"
         }
       ],
+      "meta": {
+        "switch_count": 60,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "daughterboard",
+          "stm32",
+          "encoder"
+        ]
+      },
       "name": "m60_split"
     },
     {
@@ -3627,6 +3714,22 @@
           "link": "https://gitlab.com/m-lego/m65"
         }
       ],
+      "meta": {
+        "switch_count": 65,
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "xiao",
+          "encoder",
+          "oled"
+        ]
+      },
       "name": "m65"
     },
     {
@@ -3634,9 +3737,27 @@
       "links": [
         {
           "name": "Repo",
-          "link": "[link](https://github.com/Na-Cly/splitreus62"
+          "link": "https://github.com/Na-Cly/splitreus62"
         }
       ],
+      "meta": {
+        "switch_count": 62,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "splitreus62"
     },
     {
@@ -3647,6 +3768,20 @@
           "link": "https://github.com/farfalleflickan/nack"
         }
       ],
+      "meta": {
+        "switch_count": 52,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "nack"
     },
     {
@@ -3657,6 +3792,21 @@
           "link": "https://github.com/rookiebwoy/neopad"
         }
       ],
+      "meta": {
+        "switch_count": 4,
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "Neopad"
     },
     {
@@ -3667,6 +3817,19 @@
           "link": "https://github.com/cfbender/keyboards/tree/master/nightmare"
         }
       ],
+      "meta": {
+        "switch_count": 49,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "wireless",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Nightmare"
     },
     {
@@ -3677,6 +3840,22 @@
           "link": "https://github.com/nut1414/np12"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "np12"
     },
     {
@@ -3687,6 +3866,21 @@
           "link": "https://github.com/atulloh/oddball"
         }
       ],
+      "meta": {
+        "switch_count": 39,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "trackball"
+        ]
+      },
       "name": "Oddball"
     },
     {
@@ -3697,6 +3891,24 @@
           "link": "https://github.com/omkbd/Runner3680"
         }
       ],
+      "meta": {
+        "switch_count": [30, 80],
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Runner3680"
     },
     {
@@ -3707,6 +3919,23 @@
           "link": "https://github.com/omkbd/ErgoDash"
         }
       ],
+      "meta": {
+        "switch_count": [66, 70],
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "ErgoDash"
     },
     {
@@ -3717,6 +3946,21 @@
           "link": "https://github.com/Jrodna/OrthoCode"
         }
       ],
+      "meta": {
+        "switch_count": 70,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "alps",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "OrthoCode"
     },
     {
@@ -3724,9 +3968,24 @@
       "links": [
         {
           "name": "Repo",
-          "link": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/pdxkbc"
+          "link": "https://github.com/fharding1/pdxkbc-badge"
         }
       ],
+      "meta": {
+        "switch_count": 6,
+        "tags": [
+          "macropad",
+          "mx",
+          "alps",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "pdxkbc"
     },
     {
@@ -3737,6 +3996,24 @@
           "link": "https://github.com/niltea/Palette1202"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "hotswap",
+          "soldered",
+          "onboard",
+          "pro_micro",
+          "encoder",
+          "oled"
+        ]
+      },
       "name": "Palette1202"
     },
     {

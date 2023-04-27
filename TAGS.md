@@ -45,6 +45,7 @@
 - itsybitsy
 - proton_c
 - rp2040
+- xiao
 
 ### Features
 - rgb
