@@ -4024,6 +4024,20 @@
           "link": "https://github.com/peej/tripel-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": [58, 69],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Tripel"
     },
     {
@@ -4034,6 +4048,19 @@
           "link": "https://github.com/peej/rosaline-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": [47, 51],
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Rosaline"
     },
     {
@@ -4044,6 +4071,21 @@
           "link": "https://github.com/peej/lumberjack-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": [58, 60],
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "alps",
+          "choc",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Lumberjack"
     },
     {
@@ -4054,6 +4096,19 @@
           "link": "https://github.com/knaruo/pisces"
         }
       ],
+      "meta": {
+        "switch_count": 38,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "pisces"
     },
     {
@@ -4064,6 +4119,22 @@
           "link": "https://github.com/tamanishi/Pinky4"
         }
       ],
+      "meta": {
+        "switch_count": 64,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "through_hole",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Pinky4"
     },
     {
@@ -4074,6 +4145,22 @@
           "link": "https://github.com/tamanishi/Pinky3"
         }
       ],
+      "meta": {
+        "switch_count": 50,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Pinky3"
     },
     {
@@ -4084,6 +4171,20 @@
           "link": "https://github.com/Pimentoso/Paddino02"
         }
       ],
+      "meta": {
+        "switch_count": 10,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Paddino02"
     },
     {
@@ -4094,6 +4195,21 @@
           "link": "https://github.com/floookay/pluckey"
         }
       ],
+      "meta": {
+        "switch_count": [64, 68],
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "pluckey"
     },
     {
@@ -4104,6 +4220,20 @@
           "link": "https://github.com/dsanchezseco/punk75"
         }
       ],
+      "meta": {
+        "switch_count": [71, 73],
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "punk75"
     },
     {
@@ -4114,6 +4244,25 @@
           "link": "https://github.com/harshitgoel96/pteron36-split-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": [34, 38],
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "choc",
+          "columnar",
+          "smd",
+          "through_hole",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "encoder"
+        ]
+      },
       "name": "Pteron36"
     },
     {
@@ -4124,6 +4273,20 @@
           "link": "https://github.com/psuieee/pluto12"
         }
       ],
+      "meta": {
+        "switch_count": 12,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "daughterboard",
+          "soldered",
+          "pro_micro"
+        ]
+      },
       "name": "pluto12"
     },
     {
@@ -4134,6 +4297,21 @@
           "link": "https://github.com/melonbred/open-source-projects/tree/main/keyboards/mblb"
         }
       ],
+      "meta": {
+        "switch_count": [40, 47],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "encoder",
+          "rgb"
+        ]
+      },
       "name": "MBLB"
     },
     {
@@ -4144,6 +4322,19 @@
           "link": "https://github.com/melonbred/open-source-projects/tree/main/keyboards/mb44"
         }
       ],
+      "meta": {
+        "switch_count": [42, 45],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "MB-44"
     },
     {
@@ -4154,6 +4345,20 @@
           "link": "https://github.com/kaiec/rabbit68"
         }
       ],
+      "meta": {
+        "switch_count": 68,
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Rabbit68"
     },
     {
@@ -4164,6 +4369,19 @@
           "link": "https://github.com/ramonimbao/Herringbone"
         }
       ],
+      "meta": {
+        "switch_count": 82,
+        "tags": [
+          "regular",
+          "mx",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Herringbone"
     },
     {
@@ -4174,6 +4392,21 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung61"
         }
       ],
+      "meta": {
+        "switch_count": 61,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "reviung61"
     },
     {
@@ -4184,6 +4417,21 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung53"
         }
       ],
+      "meta": {
+        "switch_count": [49, 53],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "REVIUNG53"
     },
     {
@@ -4194,6 +4442,23 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung5"
         }
       ],
+      "meta": {
+        "switch_count": [4, 5],
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "reviung5"
     },
     {
@@ -4204,6 +4469,21 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung41"
         }
       ],
+      "meta": {
+        "switch_count": 41,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "reviung41"
     },
     {
@@ -4214,6 +4494,21 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung39"
         }
       ],
+      "meta": {
+        "switch_count": 39,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "reviung39"
     },
     {
@@ -4224,6 +4519,20 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung34split"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "split",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "reviung34"
     },
     {
@@ -4234,6 +4543,20 @@
           "link": "https://github.com/gtips/reviung/tree/master/reviung33"
         }
       ],
+      "meta": {
+        "switch_count": 33,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega",
+          "rgb"
+        ]
+      },
       "name": "reviung33"
     },
     {
