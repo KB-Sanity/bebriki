@@ -46,6 +46,7 @@
 - proton_c
 - rp2040
 - xiao
+- nrf
 
 ### Features
 - rgb

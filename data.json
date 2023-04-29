@@ -4567,6 +4567,20 @@
           "link": "https://github.com/rominronin/Katana60"
         }
       ],
+      "meta": {
+        "switch_count": 70,
+        "tags": [
+          "regular",
+          "mx",
+          "alps",
+          "smd",
+          "symmetrical",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "Katana60"
     },
     {
@@ -4577,6 +4591,20 @@
           "link": "https://github.com/Salicylic-acid3/PCB_Data/tree/master/Naked60BMP"
         }
       ],
+      "meta": {
+        "switch_count": 60,
+        "tags": [
+          "regular",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "naked60"
     },
     {
@@ -4587,6 +4615,21 @@
           "link": "https://github.com/Salicylic-acid3/PCB_Data/tree/master/Naked48LED"
         }
       ],
+      "meta": {
+        "switch_count": 48,
+        "tags": [
+          "regular",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "naked48"
     },
     {
@@ -4597,6 +4640,21 @@
           "link": "https://github.com/Salicylic-acid3/PCB_Data/tree/master/Nafuda/v1"
         }
       ],
+      "meta": {
+        "switch_count": 7,
+        "tags": [
+          "macropad",
+          "choc",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "nafuda"
     },
     {
@@ -4607,6 +4665,22 @@
           "link": "https://github.com/Salicylic-acid3/PCB_Data/tree/master/Getta25/v2"
         }
       ],
+      "meta": {
+        "switch_count": 25,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "getta25"
     },
     {
@@ -4617,6 +4691,22 @@
           "link": "https://github.com/Salicylic-acid3/PCB_Data/tree/master/Setta21/v1"
         }
       ],
+      "meta": {
+        "switch_count": 21,
+        "tags": [
+          "macropad",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "setta21"
     },
     {
@@ -4627,6 +4717,22 @@
           "link": "https://github.com/satt99/comet46-hardware"
         }
       ],
+      "meta": {
+        "switch_count": 46,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "onboard",
+          "atmega",
+          "nrf"
+        ]
+      },
       "name": "Comet46"
     },
     {
@@ -4637,6 +4743,22 @@
           "link": "https://github.com/swanmatch/silverbullet44"
         }
       ],
+      "meta": {
+        "switch_count": 44,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "silverbullet44"
     },
     {
@@ -4647,6 +4769,21 @@
           "link": "https://github.com/sithlord121/slz40"
         }
       ],
+      "meta": {
+        "switch_count": 58,
+        "tags": [
+          "regular",
+          "mx",
+          "choc",
+          "smd",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "slz40"
     },
     {
@@ -4657,6 +4794,20 @@
           "link": "https://github.com/Sadeeed/Soup10"
         }
       ],
+      "meta": {
+        "switch_count": 10,
+        "tags": [
+          "macropad",
+          "mx",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "Soup10"
     },
     {
@@ -4667,6 +4818,23 @@
           "link": "https://github.com/josefadamcik/SofleKeyboard"
         }
       ],
+      "meta": {
+        "switch_count": 58,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "encoder"
+        ]
+      },
       "name": "Sofle"
     },
     {
@@ -4677,6 +4845,21 @@
           "link": "https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk"
         }
       ],
+      "meta": {
+        "switch_count": 2,
+        "tags": [
+          "macropad",
+          "mx",
+          "alps",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "2% Milk"
     },
     {
@@ -4687,6 +4870,20 @@
           "link": "https://github.com/RSchneyer/splitish"
         }
       ],
+      "meta": {
+        "switch_count": 48,
+        "tags": [
+          "monoblock_split",
+          "choc",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "splitish"
     },
     {
@@ -4697,6 +4894,23 @@
           "link": "https://github.com/takashicompany/center_enter"
         }
       ],
+      "meta": {
+        "switch_count": 35,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "equal",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "CENTER x ENTER"
     },
     {
@@ -4707,6 +4921,19 @@
           "link": "https://github.com/system76/launch"
         }
       ],
+      "meta": {
+        "switch_count": 84,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "normal",
+          "wired",
+          "hotswap",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "System76"
     },
     {
@@ -4717,6 +4944,23 @@
           "link": "https://github.com/takashicompany/radialex"
         }
       ],
+      "meta": {
+        "switch_count": 45,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Radialex"
     },
     {
@@ -4727,6 +4971,23 @@
           "link": "https://github.com/takashicompany/qoolee"
         }
       ],
+      "meta": {
+        "switch_count": 35,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "equal",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "QooLee"
     },
     {
@@ -4737,6 +4998,23 @@
           "link": "https://github.com/takashicompany/heavy_left"
         }
       ],
+      "meta": {
+        "switch_count": 95,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Heavy Left"
     },
     {
@@ -4747,6 +5025,24 @@
           "link": "https://github.com/takashicompany/endzone34"
         }
       ],
+      "meta": {
+        "switch_count": 34,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "EndZone34"
     },
     {
@@ -4757,17 +5053,24 @@
           "link": "https://github.com/takashicompany/dogtag"
         }
       ],
+      "meta": {
+        "switch_count": [8, 9],
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "DogTag"
-    },
-    {
-      "preview": "https://user-images.githubusercontent.com/4215759/138050067-02b15417-212d-406c-8cf5-ab8e309ed9d8.JPG",
-      "links": [
-        {
-          "name": "Repo",
-          "link": "https://github.com/takashicompany/compacx"
-        }
-      ],
-      "name": "Compacx"
     },
     {
       "preview": "https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg",
@@ -4777,6 +5080,22 @@
           "link": "https://github.com/SethSenpai/Tanuki"
         }
       ],
+      "meta": {
+        "switch_count": 42,
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "Tanuki 40%"
     },
     {
@@ -4787,6 +5106,22 @@
           "link": "https://github.com/MythosMann/tg4x"
         }
       ],
+      "meta": {
+        "switch_count": [42, 46],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "normal",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "rgb"
+        ]
+      },
       "name": "tg4x"
     },
     {
@@ -4797,6 +5132,22 @@
           "link": "https://github.com/vattern/grandiceps"
         }
       ],
+      "meta": {
+        "switch_count": 58,
+        "tags": [
+          "split",
+          "mx",
+          "alps",
+          "through_hole",
+          "columnar",
+          "wired",
+          "soldered",
+          "daughterboard",
+          "stm32",
+          "encoder",
+          "oled"
+        ]
+      },
       "name": "grandiceps"
     },
     {
@@ -4807,6 +5158,20 @@
           "link": "https://github.com/tominabox1/_33-Keyboard"
         }
       ],
+      "meta": {
+        "switch_count": [33, 36],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "through_hole",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega"
+        ]
+      },
       "name": "_33"
     },
     {
@@ -4817,6 +5182,24 @@
           "link": "https://github.com/rtitmuss/torn"
         }
       ],
+      "meta": {
+        "switch_count": [38, 44],
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "through_hole",
+          "columnar",
+          "wired",
+          "hotswap",
+          "soldered",
+          "onboard",
+          "atmega",
+          "oled",
+          "encoder",
+          "tenting"
+        ]
+      },
       "name": "Torn"
     },
     {
@@ -4827,6 +5210,22 @@
           "link": "https://github.com/yohewi/UraNuma"
         }
       ],
+      "meta": {
+        "switch_count": 46,
+        "tags": [
+          "monoblock_split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro"
+        ]
+      },
       "name": "UraNuma"
     },
     {
@@ -4837,6 +5236,21 @@
           "link": "https://github.com/jpskenn/Unison"
         }
       ],
+      "meta": {
+        "switch_count": [70, 83],
+        "tags": [
+          "regular",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "soldered",
+          "onboard",
+          "atmega",
+          "rgb",
+          "encoder"
+        ]
+      },
       "name": "Unison"
     },
     {
@@ -4847,6 +5261,22 @@
           "link": "https://github.com/walterhanley/wren-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": 82,
+        "tags": [
+          "split",
+          "mx",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "soldered",
+          "daughterboard",
+          "pro_micro",
+          "encoder"
+        ]
+      },
       "name": "Wren"
     },
     {
@@ -4857,6 +5287,23 @@
           "link": "https://github.com/narinari/xenon-keyboard"
         }
       ],
+      "meta": {
+        "switch_count": 54,
+        "tags": [
+          "split",
+          "mx",
+          "choc",
+          "smd",
+          "through_hole",
+          "columnar",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled"
+        ]
+      },
       "name": "Xenon"
     },
     {
@@ -4867,6 +5314,22 @@
           "link": "https://github.com/mattdibi/yampad"
         }
       ],
+      "meta": {
+        "switch_count": 18,
+        "tags": [
+          "macropad",
+          "mx",
+          "smd",
+          "ortho",
+          "wired",
+          "wireless",
+          "hotswap",
+          "daughterboard",
+          "pro_micro",
+          "oled",
+          "rgb"
+        ]
+      },
       "name": "Yampad"
     }
   ]
